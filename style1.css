@@ -1,0 +1,56 @@
+/* navbar */
+nav> ul> li{
+    display: inline-block;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 60px;
+}
+
+
+/*ecriture dans navbar */
+a{
+    color: #f1f4f6;
+    text-transform: uppercase;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+
+/* Center website */
+.main {
+    max-width: 1000px;
+    margin: auto;
+}
+
+
+/* Add padding BETWEEN each column (if you want) */
+.row > .column {
+    padding: 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 25%;
+}
+
+
+/* Content */
+.content {
+    background-color: gainsboro;
+    padding: 10px;
+}
+
+
+/* button github */
+input[type=button] {
+    background-image: linear-gradient(to right,#45bafc 0%,#57EEA1 51%,#45bafc 100%);
+    font-weight:bold;
+    height:50px;
+    width:191px;
+}
+
+
+
+
+
